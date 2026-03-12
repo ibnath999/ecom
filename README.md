@@ -1,20 +1,63 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src=""
-</div>
+# 🎂 Irtiza's Cake – Online Cake Ordering Website
 
-# Run and deploy your AI Studio app
+Irtiza's Cake is a modern e-commerce web application where customers can browse cakes, place orders, and manage their profiles. The platform provides a smooth and simple cake ordering experience.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/30db7bd6-db96-4da8-b2f7-21b642da3197
+## 🚀 Features
 
-## Run Locally
+- Browse cake products
+- Add cakes to cart
+- Place orders online
+- User profile system
+- Admin panel to manage orders
+- Fast frontend using React
+- Backend integration with Supabase
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠 Technology Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Frontend: React, HTML, CSS, JavaScript  
+Build Tool: Vite  
+Backend: Supabase  
+Runtime: Node.js
+
+---
+
+## 📂 Project Structure
+
+src/
+components/
+pages/
+context/
+data/
+lib/
+App.jsx
+main.jsx
+index.css
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Install dependencies
+
+npm install
+
+2. Run the project
+
+npm run dev
+
+---
+
+## 🌐 Open in Browser
+
+http://localhost:3000
+
+---
+
+## 👨‍💻 Author
+
+Ibnath Akhi  
+Computer Communication Engineering Student  
